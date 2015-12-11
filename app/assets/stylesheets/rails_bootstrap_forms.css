@@ -2,7 +2,7 @@
 .rails-bootstrap-forms-time-select select,
 .rails-bootstrap-forms-datetime-select select {
   display: inline-block;
-  width: auto;
+  width: 100%;
 }
 
 .rails-bootstrap-forms-error-summary {
